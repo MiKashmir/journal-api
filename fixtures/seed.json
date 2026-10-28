@@ -1,0 +1,23 @@
+{
+  "students": [
+    { "id": 1, "name": "Андрій Коваль", "group": "456-Д" },
+    { "id": 2, "name": "Марія Бондар", "group": "456-Д" },
+    { "id": 3, "name": "Олена Ткач", "group": "456-Д" },
+    { "id": 4, "name": "Іван Мельник", "group": "456-Д" },
+    { "id": 5, "name": "Софія Кравець", "group": "456-Д" },
+    { "id": 6, "name": "Денис Шевчук", "group": "456-Д" },
+    { "id": 7, "name": "Ірина Лисенко", "group": "456-Д" }
+  ],
+  "grades": [
+    { "studentId": 1, "value": 5 }, { "studentId": 1, "value": 4 },
+    { "studentId": 2, "value": 4 }, { "studentId": 2, "value": 4 }, { "studentId": 2, "value": 3 },
+    { "studentId": 3, "value": 5 },
+    { "studentId": 4, "value": 3 }, { "studentId": 4, "value": 4 },
+    { "studentId": 5, "value": 5 }, { "studentId": 5, "value": 5 },
+    { "studentId": 6, "value": 4 }
+  ],
+  "users": [
+    { "login": "teacher", "password": "teacher-pass", "role": "teacher" },
+    { "login": "student", "password": "student-pass", "role": "student" }
+  ]
+}
